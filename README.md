@@ -1,2 +1,3 @@
-Please cite the paper "Time–frequency extracting transform and its applications in vibration signal processing" while using TFET.
+Please cite the paper "Time–frequency extracting transform and its applications in vibration signal processing" while using this code.
+
 To be continue...
