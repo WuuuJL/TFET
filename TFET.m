@@ -1,4 +1,5 @@
 function [tfr_f, tfr_t, Ts1, Ts2, Ts, tfr1] = TFET(x,hlength,Chirp_rate,Type)
+%%% ---------- copyrigt by WuJL ---------- %%%
 %   time-frequency extracting transform.
 %   INPUT:
 %       x       :	 Signal.
